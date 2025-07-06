@@ -12,7 +12,7 @@ The libraries used in this project is-
 
 Steps
 1. First of all the dataset is loaded using Pandas
-2. Dataset shape, Missing values, class dribution and feature summary are checked which are called Exploratory Data Analysis (EDA)
+2. Dataset shape, Missing values, class distribution and feature summary are checked which are called Exploratory Data Analysis (EDA)
 3. Clustering Techniques like K-Means, Gaussian Mixture Model (GMM) and Hierarchical Clustering are applied Each of them have cluster visualisation and cluster statistics.
 4. Visualisations techniques were applied. Correlation Matrix and Heatmap, Pie-Chart, Box-plot and various Histograms of features.
 
