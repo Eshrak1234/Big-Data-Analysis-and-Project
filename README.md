@@ -1,4 +1,5 @@
 # Big-Data-Analysis-and-Project
+Assignment 1 Part B
 The libraries used in this project is- 
 1. Pandas- Pandas is used for data manipulation and analysis
 2. Numpy- It is used for numerical operations
@@ -15,5 +16,7 @@ Steps
 2. Dataset shape, Missing values, class distribution and feature summary are checked which are called Exploratory Data Analysis (EDA)
 3. Clustering Techniques like K-Means, Gaussian Mixture Model (GMM) and Hierarchical Clustering are applied Each of them have cluster visualisation and cluster statistics.
 4. Visualisations techniques were applied. Correlation Matrix and Heatmap, Pie-Chart, Box-plot and various Histograms of features.
+
+Assignment 1 Part C
 
    
